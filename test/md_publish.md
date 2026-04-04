@@ -4,7 +4,6 @@
 
 `GitHub` to my ~~custom~~ domain
 
-test
 ![[Pasted image 20260404175705.png]]
 
 ```
