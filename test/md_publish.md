@@ -4,18 +4,14 @@
 
 `GitHub` to my ~~custom~~ domain
 
-
-![[Pasted image 20260404175705.png]]
-
 ```
 test code
 ```
 
-![[Pasted image 20260404175616.png]]
+$$LaTex$$
+
+
 
 ### test 2
-![[blog/test/Untitled Diagram 1.svg]]
-fhuewhfiuwfe
 
-
--> 사업 웹사이트 쉽고 빠ㅡㄹ게 MD 
+ttttt
