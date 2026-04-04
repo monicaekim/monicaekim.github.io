@@ -5,15 +5,17 @@
 `GitHub` to my ~~custom~~ domain
 
 test
-![[Diagram 1.svg]]![[Diagram.svg]]
+![[Pasted image 20260404175705.png]]
+
 ```
 test code
 ```
 
 
+![[Pasted image 20260404175616.png]]
 
 
-![[Excalidraw/Drawing 2026-04-04 17.54.47.excalidraw]]
+
 ### test 2
 ![[blog/test/Untitled Diagram 1.svg]]
 fhuewhfiuwfe
